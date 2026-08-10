@@ -9,7 +9,7 @@ int main(void)
     int quinto_numero;
     int resultado;
 
-    printf("Entre com os 5 numeros: \n");
+    printf("Digite os 5 numeros: \n");
 
     scanf("%d %d %d %d %d",
           &primeiro_numero,
