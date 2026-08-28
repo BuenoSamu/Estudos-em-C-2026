@@ -2,13 +2,12 @@
 
 int main(){
 
-    int i = 0, j = 0;
+    int i , j = 0;
 
-    while (i <= 20)
+    for (i = 0; i < 10; i++)
     {
-        printf("Eu gosto de estudar Algoritmos! %d \n", j);
-        i++;
-        j++;
+        printf("Eu gosto de estudar Algoritmos! \n");
     }
+    
     return 0;
 }

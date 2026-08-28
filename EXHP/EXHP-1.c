@@ -4,7 +4,6 @@ int main (){
 
     int KmPercorridos, tempoHoras, tempoMinutos, kmRestante;
 
-
     printf("Informe quantos Km se passaram: \n");
     scanf("%d", &KmPercorridos);
 
