@@ -26,6 +26,24 @@ Entre os principais conteúdos estudados estão:
 * Boas práticas de programação;
 * Resolução de problemas utilizando C.
 
+### Estruturas de Dados
+
+Estudo e implementação de diferentes estruturas de dados, compreendendo suas características, funcionamento e operações.
+
+Entre os conteúdos estudados estão:
+
+* Nós e estruturas simplesmente ligadas;
+* Listas simplesmente ligadas;
+* Pilhas (Stack);
+* Operações de inserção (Push);
+* Operações de remoção (Pop);
+* Filas (Queue);
+* Operações de inserção (Enqueue);
+* Operações de remoção (Dequeue);
+* Ponteiros e encadeamento de nós;
+* Alocação e liberação dinâmica de memória com `malloc()` e `free()`;
+* Percurso e exibição de elementos das estruturas.
+
 Os conteúdos serão ampliados conforme novos conceitos forem estudados e aplicados.
 
 ## Objetivos
@@ -44,7 +62,7 @@ Este repositório tem como principais objetivos:
 
 Os estudos e práticas presentes neste repositório são desenvolvidos com base nos conteúdos e exercícios propostos pelo:
 
-**Professor Luã Marcelo Muriana**
+**Professor Luã Marcelo Muriana** e **Professora Amanda Costa Martinez**
 
 ## Status
 
