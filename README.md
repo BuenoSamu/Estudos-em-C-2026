@@ -60,7 +60,7 @@ Este repositório tem como principais objetivos:
 
 ## Orientação
 
-Os estudos e práticas presentes neste repositório são desenvolvidos com base nos conteúdos e exercícios propostos pelo:
+Os estudos e práticas presentes neste repositório são desenvolvidos com base nos conteúdos e exercícios propostos pelo(a):
 
 **Professor Luã Marcelo Muriana** e **Professora Amanda Costa Martinez**
 
